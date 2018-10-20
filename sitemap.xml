@@ -5,34 +5,41 @@
   <url>
     <loc>https://facundop.github.io/posts/my-first-post/</loc>
     <lastmod>2018-10-15T18:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://facundop.github.io/</loc>
     <lastmod>2018-10-15T18:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://facundop.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://facundop.github.io/tags/general/</loc>
     <lastmod>2018-10-15T18:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://facundop.github.io/posts/</loc>
     <lastmod>2018-10-15T18:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://facundop.github.io/tags/</loc>
     <lastmod>2018-10-15T18:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
