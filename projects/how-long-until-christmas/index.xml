@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt;/ &gt;</title>
-    <link>https://facundop.github.io/</link>
-    <description>Recent content on &lt;/ &gt;</description>
+    <title>How Long Until Christmas on &lt;/ &gt;</title>
+    <link>https://facundop.github.io/projects/how-long-until-christmas/</link>
+    <description>Recent content in How Long Until Christmas on &lt;/ &gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Nov 2018 23:41:38 -0300</lastBuildDate>
     
-	<atom:link href="https://facundop.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://facundop.github.io/projects/how-long-until-christmas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://facundop.github.io/project/how-long-until-christmas/</guid>
       <description>Project: How Long Until Christmas</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://facundop.github.io/post/my-first-post/</link>
-      <pubDate>Mon, 15 Oct 2018 18:00:00 +0100</pubDate>
-      
-      <guid>https://facundop.github.io/post/my-first-post/</guid>
-      <description>First post - keeping it for testing purposes only.</description>
     </item>
     
   </channel>

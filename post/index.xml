@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on &lt;/ &gt;</title>
+    <link>https://facundop.github.io/post/</link>
+    <description>Recent content in Posts on &lt;/ &gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 18:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://facundop.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://facundop.github.io/post/my-first-post/</link>
+      <pubDate>Mon, 15 Oct 2018 18:00:00 +0100</pubDate>
+      
+      <guid>https://facundop.github.io/post/my-first-post/</guid>
+      <description>First post - keeping it for testing purposes only.</description>
+    </item>
+    
+  </channel>
+</rss>
